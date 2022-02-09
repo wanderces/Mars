@@ -12,12 +12,17 @@ Develop a robot that will navigate on Mars terrain. The input of the app will be
 The robot will always start at X: 1, Y: 1 facing NORTH. If the robot reaches the limits of the plateau the command must be ignored.
 
 Your goal is to navigate the robot and print the final position.
+
 Example:
- Input:
-  5x5
-  FFRFLFLF
- Result:
-  1,4,West
+ 
+Input:
+    
+    5x5
+
+    FFRFLFLF
+ 
+    Result:
+    1,4,West
 
 * There is no limit for the Plateau size
 * Inputs will always be valid, so there is no need to validate them
